@@ -1,6 +1,6 @@
 # Xeno Marketing Dashboard
 
-![Xeno Dashboard](https://via.placeholder.com/800x400?text=Xeno+Dashboard+Preview)
+![Xeno Dashboard](https://xeno-product-manager.vercel.app/)
 
 ## 🚀 Overview
 
